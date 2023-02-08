@@ -12,18 +12,13 @@ I am IRAKOZE Aimé Aubin, a web developer from Rwanda. I like coding, anime, mov
 + `const misc: string[] = ["Figma", "Heroku", "Vercel", "Netlify", "Git", "Pivotal Tracker", "Trello"]`
 
 ## **_Github Stats_** 🚀
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=IRAKOZEAimeAubin&show_icons=true&theme=onedark"/>
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRAKOZEAimeAubin&layout=compact"/>
-</a>
+|Statistics|Languages|Streaks
+|-|-|-|
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=IRAKOZEAimeAubin&show_icons=true&theme=onedark"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRAKOZEAimeAubin&layout=compact"/></a>|<a href="#"><img height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IRAKOZEAimeAubin"/>
+</a>|
 
-<a href="#">
-<img height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IRAKOZEAimeAubin"/>
-</a>
-
+<br />
 
 <p align="center"> 
   Visitor Count<br>
