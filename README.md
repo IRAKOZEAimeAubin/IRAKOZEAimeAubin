@@ -3,7 +3,7 @@
 ## **_About Me_** 👩🏿‍💻
 I am IRAKOZE Aimé Aubin, a web developer from Rwanda. I like coding, anime, movies, music, travelling and sports not necessarily in this order.
 
-## **_Codding Stack_**
+## **_Coding Stack_**
 
 + `const languages: string[] = ["JavaScript", "TypeScript", "Java", "Python"]`
 + `const backEnd: string[] = ["Express.js", "Node.js"]`
