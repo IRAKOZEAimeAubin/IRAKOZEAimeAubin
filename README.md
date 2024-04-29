@@ -7,7 +7,7 @@ I am IRAKOZE Aimé Aubin, a web developer from Rwanda. I like coding, anime, mov
 
 + `const languages: string[] = ["JavaScript", "TypeScript", "Java", "Python"]`
 + `const backEnd: string[] = ["Express.js", "Node.js", "Nest.js"]`
-+ `const frontEnd: string[] = ["React.js", "Next.js", "Tailwind CSS", "Sass", "Bootstrap", "Material UI"]`
++ `const frontEnd: string[] = ["React.js", "Next.js", "Angular", "Tailwind CSS", ]`
 + `const databases: string[] = ["Postgres", "MongoDB"]`
 + `const misc: string[] = ["Figma", "Heroku", "Vercel", "Netlify", "Git", "Pivotal Tracker", "Trello"]`
 
