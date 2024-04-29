@@ -1,13 +1,13 @@
 # **Hey, there** 👋🏿
 
 ## **_About Me_** 👩🏿‍💻
-I am IRAKOZE Aimé Aubin, a web developer from Rwanda. I like coding, anime, movies, music, traveling and sports not necessarily in this order.
+I am IRAKOZE Aimé Aubin, a web developer from Rwanda. I like coding, anime, movies, music, traveling, and sports not necessarily in this order.
 
 ## **_Coding Stack_**
 
 + `const languages: string[] = ["JavaScript", "TypeScript", "Java", "Python"]`
 + `const backEnd: string[] = ["Express.js", "Node.js", "Nest.js"]`
-+ `const frontEnd: string[] = ["React.js", "Next.js", "Angular", "Tailwind CSS", ]`
++ `const frontEnd: string[] = ["React.js", "Next.js", "Angular", "Tailwind CSS"]`
 + `const databases: string[] = ["Postgres", "MongoDB"]`
 + `const misc: string[] = ["Figma", "Heroku", "Vercel", "Netlify", "Git", "Pivotal Tracker", "Trello"]`
 
